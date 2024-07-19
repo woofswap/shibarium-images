@@ -22,7 +22,7 @@ assets/
 
 ### Testnet
 
-- **Path**: `assets/testnet/ethereum/`
+- **Path**: `assets/testnet/sepolia/`
 - **Description**: This folder contains images for tokens on the testnet network. Each token image is named using its token address.
 
 ## How to Add a New Token Image
