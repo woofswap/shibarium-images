@@ -1,37 +1,51 @@
-# Shibarium Images
+# Shibarium Token
 
-This repository contains token images for the Shibarium bridge, supporting both mainnet and testnet networks.
+This repository contains token images, token details for the Shibarium bridge, supporting both ethereum and sepolia networks.
 
 ## Folder Structure
 
 ```
 assets/
-├── mainnet/
-│ └── ethereum/
+├── ethereum/
+│ └── {tokenSymbol}/
+| └── token.json
 │ └── {tokenAddress}.png
-├── testnet/
-│ └── ethereum/
+├── sepolia/
+│ └── {tokenSymbol}/
+| └── token.json
 │ └── {tokenAddress}.png
 ```
 
 
-### Mainnet
+### Ethereum
 
-- **Path**: `assets/mainnet/ethereum/`
-- **Description**: This folder contains images for tokens on the mainnet network. Each token image is named using its token address.
+- **Path**: `assets/ethereum/`
+- **Description**: This folder contains images and detail for tokens on the ethereum network.
 
-### Testnet
+### Sepolia
 
-- **Path**: `assets/testnet/sepolia/`
-- **Description**: This folder contains images for tokens on the testnet network. Each token image is named using its token address.
+- **Path**: `assets/sepolia/`
+- **Description**: This folder contains images and detail for tokens on the sepolia network.
 
 ## How to Add a New Token Image
 
-1. Determine if the token is for the mainnet or testnet.
-2. Place the token image in the appropriate folder (mainnet or testnet) under the (ethereum or sepolia ) directory.
-3. Name the image file using the token's address, followed by .png (e.g., 0x1234567890abcdef.png).
-4. Create a pull request (PR) to the main branch with the token image added in the respective mainnet or testnet folder.
-5. Wait for the PR approval.
+1. Determine if the token is for the ethereum or sepolia.
+2. Create a folder named by the token symbol in CAPITAL letters under the appropriate directory (ethereum or sepolia).
+3. Place the token image in this folder. Name the image file using the token's address, followed by .png (e.g., 0x1234567890abcdef.png).
+4. Add a token.json file in the same folder with the following structure:
+```
+{
+    "parentName": "BONE SHIBASWAP",
+    "parentSymbol": "BONE",
+    "parentContract": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+    "childName": "Bone Token",
+    "childSymbol": "BONE",
+    "childContract": "0x0000000000000000000000000000000000001010",
+    "bridgeType": "plasma"
+}
+```
+5. Create a pull request (PR) to the main branch with the token image and token.json file added in the respective mainnet or testnet folder.
+6. Wait for the PR approval.
 
 ## Contribution
 
