@@ -1,4 +1,4 @@
-# Shibarium Images
+# Shibarium Token
 
 This repository contains token images, token details for the Shibarium bridge, supporting both ethereum and sepolia networks.
 
@@ -8,11 +8,11 @@ This repository contains token images, token details for the Shibarium bridge, s
 assets/
 ├── ethereum/
 │ └── {tokenSymbol}/
-| └── {token}.json
+| └── token.json
 │ └── {tokenAddress}.png
 ├── sepolia/
 │ └── {tokenSymbol}/
-| └── {token}.json
+| └── token.json
 │ └── {tokenAddress}.png
 ```
 
