@@ -9,7 +9,7 @@ assets/
 ├── ethereum/
 │ └── {tokenSymbol}/
 | └── token.json
-│ └── {tokenAddress}.png
+│ └── {tokenAddress}.png // in lowercase
 ├── sepolia/
 │ └── {tokenSymbol}/
 | └── token.json
@@ -31,7 +31,7 @@ assets/
 
 1. Determine if the token is for the ethereum or sepolia.
 2. Create a folder named by the token symbol in CAPITAL letters under the appropriate directory (ethereum or sepolia).
-3. Place the token image in this folder. Name the image file using the token's address, followed by .png (e.g., 0x1234567890abcdef.png).
+3. Place the token image in this folder. Name the image file using the token's address in lower case, followed by .png (e.g., 0x1234567890abcdef.png).
 4. Add a token.json file in the same folder with the following structure:
 ```
 {
