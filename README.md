@@ -46,6 +46,17 @@ assets/
 ```
 5. Create a pull request (PR) to the main branch with the token image and token.json file added in the respective mainnet or testnet folder.
 6. Wait for the PR approval.
+7. The URL for the token image will be:
+
+   ```
+   https://cdn.shib.io/shibarium-bridge/ethereum/BONE/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
+   ```
+
+   The general format is:
+
+   ```
+   https://cdn.shib.io/shibarium-bridge/${chain}/${parentSymbol}/${parentContract.toLowerCase()}.png
+   ```
 
 ## Contribution
 
