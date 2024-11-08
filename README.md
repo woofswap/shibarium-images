@@ -88,10 +88,10 @@ assets/
 Once your PR is merged, the image for the token can be accessed via the following URL format:
 
 ```
-https://cdn.shib.io/shibarium-tokens/images/${chain}/${contractAddress.toLowerCase()}.png
+https://cdn.shib.io/tokens/images/${chain}/${contractAddress.toLowerCase()}.png
 ```
 ```
-https://cdn.shib.io/shibarium-tokens/data/${chain}/${contractAddress.toLowerCase()}.json
+https://cdn.shib.io/tokens/data/${chain}/${contractAddress.toLowerCase()}.json
 ```
 
 - `${chain}`: Replace with the network (either `ethereum`, `sepolia`, `shibarium`, or `puppynet`).
@@ -103,10 +103,10 @@ https://cdn.shib.io/shibarium-tokens/data/${chain}/${contractAddress.toLowerCase
 If you added the `BONE` token for the **Ethereum** network, with the contract address `0x9813037ee2218799597d83d4a5b6f3b6778218d9`, the image URL would be:
 
 ```
-https://cdn.shib.io/shibarium-tokens/images/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
+https://cdn.shib.io/tokens/images/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
 ```
 ```
-https://cdn.shib.io/shibarium-tokens/data/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.json
+https://cdn.shib.io/tokens/data/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.json
 ```
 ---
 
