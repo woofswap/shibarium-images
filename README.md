@@ -106,7 +106,7 @@ If you added the `BONE` token for the **Ethereum** network, with the contract ad
 https://cdn.shib.io/shibarium-tokens/images/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
 ```
 ```
-https://cdn.shib.io/shibarium-tokens/images/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.json
+https://cdn.shib.io/shibarium-tokens/data/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.json
 ```
 ---
 
