@@ -65,7 +65,7 @@ assets/
 {
     "parentName": "BONE SHIBASWAP",          // Name of the parent token (e.g., BONE SHIBASWAP)
     "parentSymbol": "BONE",                  // Symbol of the parent token (e.g., BONE)
-    "parentContract": "0x9813037ee2218799597d83D4a5B6F3b6778218d9", // Address of the parent token contract
+    "parentContract": "0x9813037ee2218799597d83d4a5b6f3b6778218d9", // Address of the parent token contract
     "childName": "Bone Token",               // Name of the child token (e.g., Bone Token)
     "childSymbol": "BONE",                   // Symbol of the child token (e.g., BONE)
     "childContract": "0x0000000000000000000000000000000000001010", // Address of the child token contract
@@ -83,23 +83,30 @@ assets/
 
 ---
 
-## Image URL Format
+## Image/Data URL Format
 
 Once your PR is merged, the image for the token can be accessed via the following URL format:
 
 ```
 https://cdn.shib.io/shibarium-tokens/images/${chain}/${contractAddress.toLowerCase()}.png
 ```
+```
+https://cdn.shib.io/shibarium-tokens/images/${chain}/${contractAddress.toLowerCase()}.json
+```
 
 - `${chain}`: Replace with the network (either `ethereum`, `sepolia`, `shibarium`, or `puppynet`).
 - `${contractAddress}`: Use the **token's contract address** (in lowercase).
 
+
 ### Example URL:
 
-If you added the `BONE` token for the **Ethereum** network, with the contract address `0x9813037ee2218799597d83D4a5B6F3b6778218d9`, the image URL would be:
+If you added the `BONE` token for the **Ethereum** network, with the contract address `0x9813037ee2218799597d83d4a5b6f3b6778218d9`, the image URL would be:
 
 ```
 https://cdn.shib.io/shibarium-tokens/images/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
+```
+```
+https://cdn.shib.io/shibarium-tokens/images/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.json
 ```
 ---
 
