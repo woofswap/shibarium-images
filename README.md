@@ -1,6 +1,6 @@
 # Shibarium Token Bridge
 
-This repository contains token images and details for the Shibarium bridge, supporting the **Ethereum**, **Sepolia**, **Shibarium**, and **Puppynet** networks.
+This is the official repository for Shibarium token images and details, supporting the **Ethereum**, **Sepolia**, **Shibarium**, and **Puppynet** networks.
 
 ## Folder Structure
 
@@ -32,13 +32,13 @@ assets/
   - **Path**: `assets/images/ethereum/`, `assets/data/ethereum/`
   - **Description**: Contains images and details for tokens on the **Ethereum** network.
 
+- **Shibarium Network**
+  - **Path**: `assets/images/shibarium/`, `assets/data/shibarium/`
+  - **Description**: Contains images and details for tokens on the **Shibarium** network.
+
 - **Sepolia Network**
   - **Path**: `assets/images/sepolia/`, `assets/data/sepolia/`
   - **Description**: Contains images and details for tokens on the **Sepolia** test network.
-
-- **Shibarium Network**
-  - **Path**: `assets/images/shibarium/`, `assets/data/shibarium/`
-  - **Description**: Contains images and details for tokens on the **Shibarium** test network.
 
 - **Puppynet Network**
   - **Path**: `assets/images/puppynet/`, `assets/data/puppynet/`
@@ -75,7 +75,7 @@ assets/
 
 ### 3. Create a Pull Request (PR)
 
-- Once you have added the image `${tokenAddress}.json` file, **create a pull request (PR)** to the main branch with your changes.
+- Once you have added the image and `${tokenAddress}.json` file, **create a pull request (PR)** to the main branch with your changes.
 
 ### 4. PR Review and Approval
 
@@ -99,15 +99,8 @@ https://cdn.shib.io/shibarium-tokens/images/${chain}/${contractAddress.toLowerCa
 If you added the `BONE` token for the **Ethereum** network, with the contract address `0x9813037ee2218799597d83D4a5B6F3b6778218d9`, the image URL would be:
 
 ```
-https://cdn.shib.io/shibarium-tokens/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
+https://cdn.shib.io/shibarium-tokens/images/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
 ```
-
-If you added the same token but with the **child contract address** `0x0000000000000000000000000000000000001010`, the image URL would be:
-
-```
-https://cdn.shib.io/shibarium-tokens/ethereum/0x0000000000000000000000000000000000001010.png
-```
-
 ---
 
 ## Contribution Guidelines
