@@ -1,0 +1,9 @@
+{
+  "parentName": "DefiDollar DAO",
+  "parentSymbol": "DFD",
+  "parentContract": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

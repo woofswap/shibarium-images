@@ -1,0 +1,9 @@
+{
+  "parentName": "Luna Inu",
+  "parentSymbol": "LINU",
+  "parentContract": "0x78132543d8e20d2417d8a07d9ae199d458a0d581",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

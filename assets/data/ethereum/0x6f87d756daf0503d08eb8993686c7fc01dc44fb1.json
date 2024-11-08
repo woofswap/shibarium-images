@@ -1,0 +1,9 @@
+{
+  "parentName": "UniTrade",
+  "parentSymbol": "TRADE",
+  "parentContract": "0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

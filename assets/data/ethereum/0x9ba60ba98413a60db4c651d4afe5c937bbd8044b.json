@@ -1,0 +1,9 @@
+{
+  "parentName": "Yearn Lazy Ape Index",
+  "parentSymbol": "YLA",
+  "parentContract": "0x9ba60ba98413a60db4c651d4afe5c937bbd8044b",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

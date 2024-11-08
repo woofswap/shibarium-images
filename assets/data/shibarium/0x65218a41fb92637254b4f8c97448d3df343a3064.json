@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "Leash",
+  "childSymbol": "LEASH",
+  "childContract": "0x65218a41fb92637254b4f8c97448d3df343a3064",
+  "bridgeType": "pos"
+}

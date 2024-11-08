@@ -1,0 +1,9 @@
+{
+  "parentName": "Basis Bond",
+  "parentSymbol": "BAB",
+  "parentContract": "0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

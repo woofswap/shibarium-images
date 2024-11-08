@@ -1,0 +1,9 @@
+{
+  "parentName": "SORA",
+  "parentSymbol": "XOR",
+  "parentContract": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

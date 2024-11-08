@@ -1,0 +1,9 @@
+{
+  "parentName": "pTokens BTC",
+  "parentSymbol": "pBTC",
+  "parentContract": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

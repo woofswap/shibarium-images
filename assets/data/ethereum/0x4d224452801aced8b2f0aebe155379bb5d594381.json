@@ -1,0 +1,9 @@
+{
+  "parentName": "ApeCoin (APE)",
+  "parentSymbol": "APE",
+  "parentContract": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

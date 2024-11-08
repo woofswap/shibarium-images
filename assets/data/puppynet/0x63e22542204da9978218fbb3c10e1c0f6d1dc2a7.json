@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "USD Coin",
+  "childSymbol": "USDC",
+  "childContract": "0x63e22542204da9978218fbb3c10e1c0f6d1dc2a7",
+  "bridgeType": "pos"
+}

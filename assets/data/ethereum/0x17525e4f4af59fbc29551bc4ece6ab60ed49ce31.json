@@ -1,0 +1,9 @@
+{
+  "parentName": "PieDAO Yearn Ecosystem Pie",
+  "parentSymbol": "YPIE",
+  "parentContract": "0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

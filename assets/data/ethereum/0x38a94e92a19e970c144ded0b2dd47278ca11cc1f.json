@@ -1,0 +1,9 @@
+{
+  "parentName": "Falcon 9",
+  "parentSymbol": "F9",
+  "parentContract": "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Chihiro Inu",
+  "parentSymbol": "CHIRO",
+  "parentContract": "0x35156b404c3f9bdaf45ab65ba315419bcde3775c",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

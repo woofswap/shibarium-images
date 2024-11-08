@@ -1,0 +1,9 @@
+{
+  "parentName": "Moss Carbon Credit",
+  "parentSymbol": "MCO2",
+  "parentContract": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

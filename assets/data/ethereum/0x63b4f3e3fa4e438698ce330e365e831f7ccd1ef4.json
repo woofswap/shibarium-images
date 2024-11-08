@@ -1,0 +1,9 @@
+{
+  "parentName": "CyberFi Token",
+  "parentSymbol": "CFi",
+  "parentContract": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

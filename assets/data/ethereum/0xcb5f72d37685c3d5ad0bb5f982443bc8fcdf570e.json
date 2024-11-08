@@ -1,0 +1,9 @@
+{
+  "parentName": "Rootkit Finance",
+  "parentSymbol": "ROOT",
+  "parentContract": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Furucombo",
+  "parentSymbol": "COMBO",
+  "parentContract": "0xffffffff2ba8f66d4e51811c5190992176930278",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

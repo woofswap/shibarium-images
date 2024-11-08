@@ -1,0 +1,9 @@
+{
+  "parentName": "Dopex Governance Token",
+  "parentSymbol": "DPX",
+  "parentContract": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

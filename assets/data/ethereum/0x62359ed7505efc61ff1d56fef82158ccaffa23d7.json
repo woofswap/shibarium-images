@@ -1,0 +1,9 @@
+{
+  "parentName": "cVault Finance",
+  "parentSymbol": "CORE",
+  "parentContract": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Bitgear",
+  "parentSymbol": "GEAR",
+  "parentContract": "0x1b980e05943de3db3a459c72325338d327b6f5a9",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

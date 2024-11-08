@@ -1,0 +1,9 @@
+{
+  "parentName": "bZx Protocol Token",
+  "parentSymbol": "BZRX",
+  "parentContract": "0x56d811088235f11c8920698a204a5010a788f4b3",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

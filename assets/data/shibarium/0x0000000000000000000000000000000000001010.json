@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "BONE",
+  "childSymbol": "BONE",
+  "childContract": "0x0000000000000000000000000000000000001010",
+  "bridgeType": "plasma"
+}

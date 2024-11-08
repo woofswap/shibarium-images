@@ -1,0 +1,9 @@
+{
+  "parentName": "Alchemix",
+  "parentSymbol": "ALCX",
+  "parentContract": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

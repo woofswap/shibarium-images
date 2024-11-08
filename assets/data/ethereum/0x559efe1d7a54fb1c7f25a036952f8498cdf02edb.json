@@ -1,0 +1,9 @@
+{
+  "parentName": "DOGG Token",
+  "parentSymbol": "DOGG",
+  "parentContract": "0x559efe1d7a54fb1c7f25a036952f8498cdf02edb",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

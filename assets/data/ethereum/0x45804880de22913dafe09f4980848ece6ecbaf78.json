@@ -1,0 +1,9 @@
+{
+  "parentName": "PAX Gold",
+  "parentSymbol": "PAXG",
+  "parentContract": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

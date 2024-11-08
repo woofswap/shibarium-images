@@ -1,0 +1,9 @@
+{
+  "parentName": "Atari Token",
+  "parentSymbol": "ATRI",
+  "parentContract": "0xdacd69347de42babfaecd09dc88958378780fb62",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

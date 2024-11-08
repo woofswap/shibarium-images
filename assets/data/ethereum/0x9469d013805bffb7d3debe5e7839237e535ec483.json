@@ -1,0 +1,9 @@
+{
+  "parentName": "Evolution Land Global Token",
+  "parentSymbol": "RING",
+  "parentContract": "0x9469d013805bffb7d3debe5e7839237e535ec483",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

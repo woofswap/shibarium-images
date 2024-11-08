@@ -1,0 +1,9 @@
+{
+  "parentName": "Shibaverse",
+  "parentSymbol": "VERSE",
+  "parentContract": "0x7ae0d42f23c33338de15bfa89c7405c068d9dc0a",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

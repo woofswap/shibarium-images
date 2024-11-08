@@ -1,0 +1,9 @@
+{
+  "parentName": "Aragon",
+  "parentSymbol": "ANT",
+  "parentContract": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

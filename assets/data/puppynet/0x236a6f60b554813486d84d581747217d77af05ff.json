@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "Tether USD",
+  "childSymbol": "USDT",
+  "childContract": "0x236a6f60b554813486d84d581747217d77af05ff",
+  "bridgeType": "pos"
+}

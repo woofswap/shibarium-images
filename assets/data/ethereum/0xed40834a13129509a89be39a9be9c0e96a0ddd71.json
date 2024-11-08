@@ -1,0 +1,9 @@
+{
+  "parentName": "Warp Token",
+  "parentSymbol": "WARP",
+  "parentContract": "0xed40834a13129509a89be39a9be9c0e96a0ddd71",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "sDEFI",
+  "parentSymbol": "SDEFI",
+  "parentContract": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

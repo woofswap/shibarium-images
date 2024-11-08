@@ -1,0 +1,9 @@
+{
+  "parentName": "Raku Coin",
+  "parentSymbol": "RAKUC",
+  "parentContract": "0x714599f7604144a3fe1737c440a70fc0fd6503ea",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

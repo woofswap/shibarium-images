@@ -1,0 +1,9 @@
+{
+  "parentName": "Perlin",
+  "parentSymbol": "PERL",
+  "parentContract": "0xeca82185adce47f39c684352b0439f030f860318",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

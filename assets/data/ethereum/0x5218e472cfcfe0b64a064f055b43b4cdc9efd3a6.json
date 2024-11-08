@@ -1,0 +1,9 @@
+{
+  "parentName": "unFederalReserve",
+  "parentSymbol": "eRSDL",
+  "parentContract": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

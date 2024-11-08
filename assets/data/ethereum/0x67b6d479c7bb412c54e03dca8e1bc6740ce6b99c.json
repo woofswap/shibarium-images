@@ -1,0 +1,9 @@
+{
+  "parentName": "Kylin",
+  "parentSymbol": "KYL",
+  "parentContract": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

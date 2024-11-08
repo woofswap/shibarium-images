@@ -1,0 +1,9 @@
+{
+  "parentName": "Launchpool",
+  "parentSymbol": "LPOOL",
+  "parentContract": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

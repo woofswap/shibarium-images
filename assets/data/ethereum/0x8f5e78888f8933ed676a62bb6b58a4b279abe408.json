@@ -1,0 +1,9 @@
+{
+  "parentName": "stakedXYM",
+  "parentSymbol": "stXYM",
+  "parentContract": "0x8f5e78888f8933ed676a62bb6b58a4b279abe408",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

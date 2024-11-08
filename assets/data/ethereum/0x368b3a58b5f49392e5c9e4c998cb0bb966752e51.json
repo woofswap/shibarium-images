@@ -1,0 +1,9 @@
+{
+  "parentName": "Mithril Cash",
+  "parentSymbol": "MIC",
+  "parentContract": "0x368b3a58b5f49392e5c9e4c998cb0bb966752e51",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

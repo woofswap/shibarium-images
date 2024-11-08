@@ -1,0 +1,9 @@
+{
+  "parentName": "Pickle Token",
+  "parentSymbol": "PICKLE",
+  "parentContract": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

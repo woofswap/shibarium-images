@@ -1,0 +1,9 @@
+{
+  "parentName": "Cream ETH 2",
+  "parentSymbol": "CRETH2",
+  "parentContract": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

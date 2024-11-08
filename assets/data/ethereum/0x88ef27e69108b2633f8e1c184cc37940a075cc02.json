@@ -1,0 +1,9 @@
+{
+  "parentName": "Dego Finance",
+  "parentSymbol": "DEGO",
+  "parentContract": "0x88ef27e69108b2633f8e1c184cc37940a075cc02",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

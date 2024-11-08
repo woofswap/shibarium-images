@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "SHIBA INU",
+  "childSymbol": "SHIB",
+  "childContract": "0x495eea66b0f8b636d441dc6a98d8f5c3d455c4c0",
+  "bridgeType": "pos"
+}

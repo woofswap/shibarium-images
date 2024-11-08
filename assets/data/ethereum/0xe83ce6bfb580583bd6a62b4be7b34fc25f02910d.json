@@ -1,0 +1,9 @@
+{
+  "parentName": "ABBC Coin",
+  "parentSymbol": "ABBC",
+  "parentContract": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

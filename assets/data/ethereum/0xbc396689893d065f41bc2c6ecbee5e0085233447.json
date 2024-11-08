@@ -1,0 +1,9 @@
+{
+  "parentName": "Perpetual Protocol",
+  "parentSymbol": "PERP",
+  "parentContract": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

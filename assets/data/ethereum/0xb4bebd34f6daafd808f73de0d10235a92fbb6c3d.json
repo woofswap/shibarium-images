@@ -1,0 +1,9 @@
+{
+  "parentName": "Yearn Ecosystem Token Index",
+  "parentSymbol": "YETI",
+  "parentContract": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

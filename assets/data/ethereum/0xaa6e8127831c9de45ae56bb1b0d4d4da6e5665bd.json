@@ -1,0 +1,9 @@
+{
+  "parentName": "ETH 2x Flexible Leverage Index",
+  "parentSymbol": "ETH2x-FLI",
+  "parentContract": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

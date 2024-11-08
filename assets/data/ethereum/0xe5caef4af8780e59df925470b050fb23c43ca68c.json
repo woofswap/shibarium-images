@@ -1,0 +1,9 @@
+{
+  "parentName": "Ferrum Network",
+  "parentSymbol": "FRM",
+  "parentContract": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

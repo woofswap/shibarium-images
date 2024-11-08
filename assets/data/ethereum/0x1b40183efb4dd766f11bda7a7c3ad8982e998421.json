@@ -1,0 +1,9 @@
+{
+  "parentName": "VesperToken",
+  "parentSymbol": "VSP",
+  "parentContract": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

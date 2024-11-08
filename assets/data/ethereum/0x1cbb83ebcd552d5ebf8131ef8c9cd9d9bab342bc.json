@@ -1,0 +1,9 @@
+{
+  "parentName": "Non-Fungible Yearn",
+  "parentSymbol": "NFY",
+  "parentContract": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

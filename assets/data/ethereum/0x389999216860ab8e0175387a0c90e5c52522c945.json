@@ -1,0 +1,9 @@
+{
+  "parentName": "FEGtoken",
+  "parentSymbol": "FEG",
+  "parentContract": "0x389999216860ab8e0175387a0c90e5c52522c945",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Xfinance",
+  "parentSymbol": "XFI",
+  "parentContract": "0x5befbb272290dd5b8521d4a938f6c4757742c430",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

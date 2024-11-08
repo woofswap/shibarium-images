@@ -1,0 +1,9 @@
+{
+  "parentName": "FinNexus",
+  "parentSymbol": "FNX",
+  "parentContract": "0xef9cd7882c067686691b6ff49e650b43afbbcc6b",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

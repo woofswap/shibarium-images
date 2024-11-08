@@ -1,0 +1,9 @@
+{
+  "parentName": "BlueSparrow Token",
+  "parentSymbol": "BlueSparrow",
+  "parentContract": "0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

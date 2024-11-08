@@ -1,0 +1,9 @@
+{
+  "parentName": "Jarvis Synthetic British Pound",
+  "parentSymbol": "jGBP",
+  "parentContract": "0x7409856cae628f5d578b285b45669b36e7005283",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

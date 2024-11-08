@@ -1,0 +1,9 @@
+{
+  "parentName": "Unilayer",
+  "parentSymbol": "LAYER",
+  "parentContract": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

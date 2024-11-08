@@ -1,0 +1,9 @@
+{
+  "parentName": "Quant",
+  "parentSymbol": "QNT",
+  "parentContract": "0x4a220e6096b25eadb88358cb44068a3248254675",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

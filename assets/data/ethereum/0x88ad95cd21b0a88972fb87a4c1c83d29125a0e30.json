@@ -1,0 +1,9 @@
+{
+  "parentName": "Ironman",
+  "parentSymbol": "IRONMAN",
+  "parentContract": "0x88ad95cd21b0a88972fb87a4c1c83d29125a0e30",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "ZeroSwap",
+  "parentSymbol": "ZEE",
+  "parentContract": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

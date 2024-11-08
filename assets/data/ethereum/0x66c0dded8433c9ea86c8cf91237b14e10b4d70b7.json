@@ -1,0 +1,9 @@
+{
+  "parentName": "MarsToken",
+  "parentSymbol": "MARS",
+  "parentContract": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Aergo",
+  "parentSymbol": "AERGO",
+  "parentContract": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

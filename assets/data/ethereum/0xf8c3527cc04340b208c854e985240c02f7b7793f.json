@@ -1,0 +1,9 @@
+{
+  "parentName": "Frontier",
+  "parentSymbol": "FRONT",
+  "parentContract": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

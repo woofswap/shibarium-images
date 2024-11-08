@@ -1,0 +1,9 @@
+{
+  "parentName": "Visor.Finance",
+  "parentSymbol": "VISR",
+  "parentContract": "0xf938424f7210f31df2aee3011291b658f872e91e",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

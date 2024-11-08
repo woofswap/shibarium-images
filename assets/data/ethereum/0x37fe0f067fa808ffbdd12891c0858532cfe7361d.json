@@ -1,0 +1,9 @@
+{
+  "parentName": "Civilization",
+  "parentSymbol": "CIV",
+  "parentContract": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

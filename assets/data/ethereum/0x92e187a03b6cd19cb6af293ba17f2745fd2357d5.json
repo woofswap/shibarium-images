@@ -1,0 +1,9 @@
+{
+  "parentName": "Unit Protocol",
+  "parentSymbol": "DUCK",
+  "parentContract": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

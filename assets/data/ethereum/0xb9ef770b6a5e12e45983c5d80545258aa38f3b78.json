@@ -1,0 +1,9 @@
+{
+  "parentName": "0chain",
+  "parentSymbol": "ZCN",
+  "parentContract": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

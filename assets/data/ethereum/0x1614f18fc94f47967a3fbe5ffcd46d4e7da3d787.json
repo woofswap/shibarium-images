@@ -1,0 +1,9 @@
+{
+  "parentName": "PAID Network",
+  "parentSymbol": "PAID",
+  "parentContract": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

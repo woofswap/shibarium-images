@@ -1,0 +1,9 @@
+{
+  "parentName": "",
+  "parentSymbol": "",
+  "parentContract": "",
+  "childName": "xFUND",
+  "childSymbol": "xFUND",
+  "childContract": "0x78f022230eae6e05d8739e83a14b0cf1d00cfad5",
+  "bridgeType": "pos"
+}

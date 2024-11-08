@@ -1,0 +1,9 @@
+{
+  "parentName": "Bidao",
+  "parentSymbol": "BID",
+  "parentContract": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Bao Finance",
+  "parentSymbol": "BAO",
+  "parentContract": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

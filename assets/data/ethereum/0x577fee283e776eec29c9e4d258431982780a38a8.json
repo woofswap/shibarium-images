@@ -1,0 +1,9 @@
+{
+  "parentName": "Pepa ERC",
+  "parentSymbol": "PEPA",
+  "parentContract": "0x577fee283e776eec29c9e4d258431982780a38a8",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

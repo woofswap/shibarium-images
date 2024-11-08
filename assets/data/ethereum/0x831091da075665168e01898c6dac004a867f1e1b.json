@@ -1,0 +1,9 @@
+{
+  "parentName": "Gains Farm",
+  "parentSymbol": "GFARM2",
+  "parentContract": "0x831091da075665168e01898c6dac004a867f1e1b",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

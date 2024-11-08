@@ -1,0 +1,9 @@
+{
+  "parentName": "Rio Fuel Token",
+  "parentSymbol": "RFuel",
+  "parentContract": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Spheroid",
+  "parentSymbol": "SPH",
+  "parentContract": "0xa0cf46eb152656c7090e769916eb44a138aaa406",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

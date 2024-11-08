@@ -1,0 +1,9 @@
+{
+  "parentName": "yTSLA Finance",
+  "parentSymbol": "yTSLA",
+  "parentContract": "0x5322a3556f979ce2180b30e689a9436fddcb1021",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

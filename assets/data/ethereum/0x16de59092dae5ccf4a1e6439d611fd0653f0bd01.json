@@ -1,0 +1,9 @@
+{
+  "parentName": "iearn DAIv2",
+  "parentSymbol": "yDAIv2",
+  "parentContract": "0x16de59092dae5ccf4a1e6439d611fd0653f0bd01",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "PYRO Network",
+  "parentSymbol": "PYRO",
+  "parentContract": "0x14409b0fc5c7f87b5dad20754fe22d29a3de8217",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

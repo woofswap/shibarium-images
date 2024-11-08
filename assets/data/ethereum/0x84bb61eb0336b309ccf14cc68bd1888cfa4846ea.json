@@ -1,0 +1,9 @@
+{
+  "parentName": "The Official MINE Token",
+  "parentSymbol": "MINE",
+  "parentContract": "0x84bb61eb0336b309ccf14cc68bd1888cfa4846ea",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

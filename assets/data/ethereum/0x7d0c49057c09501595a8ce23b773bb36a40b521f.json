@@ -1,0 +1,9 @@
+{
+  "parentName": "PREME Token",
+  "parentSymbol": "PREME",
+  "parentContract": "0x7d0c49057c09501595a8ce23b773bb36a40b521f",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

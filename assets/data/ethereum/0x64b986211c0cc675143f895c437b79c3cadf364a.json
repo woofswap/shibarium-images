@@ -1,0 +1,9 @@
+{
+  "parentName": "Grapefruit Coin",
+  "parentSymbol": "GRPFT",
+  "parentContract": "0x64b986211c0cc675143f895c437b79c3cadf364a",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

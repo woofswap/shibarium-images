@@ -1,0 +1,9 @@
+{
+  "parentName": "Robonomics",
+  "parentSymbol": "XRT",
+  "parentContract": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

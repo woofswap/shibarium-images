@@ -1,0 +1,9 @@
+{
+  "parentName": "USDP Stablecoin",
+  "parentSymbol": "USDP",
+  "parentContract": "0x1456688345527be1f37e9e627da0837d6f08c925",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

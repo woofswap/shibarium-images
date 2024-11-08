@@ -1,0 +1,9 @@
+{
+  "parentName": "ExNetwork Token",
+  "parentSymbol": "EXNT",
+  "parentContract": "0xd6c67b93a7b248df608a653d82a100556144c5da",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "Rarible",
+  "parentSymbol": "RARI",
+  "parentContract": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

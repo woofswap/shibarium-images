@@ -1,0 +1,9 @@
+{
+  "parentName": "Stabilize Token",
+  "parentSymbol": "STBZ",
+  "parentContract": "0xb987d48ed8f2c468d52d6405624eadba5e76d723",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

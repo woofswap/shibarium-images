@@ -1,0 +1,9 @@
+{
+  "parentName": "Paypolitan Token",
+  "parentSymbol": "EPAN",
+  "parentContract": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

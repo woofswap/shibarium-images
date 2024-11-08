@@ -1,0 +1,9 @@
+{
+  "parentName": "Dogen Finance",
+  "parentSymbol": "DOGEN",
+  "parentContract": "0x17eb50fdd2995696ee82912a80a9766fcbb0ecca",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

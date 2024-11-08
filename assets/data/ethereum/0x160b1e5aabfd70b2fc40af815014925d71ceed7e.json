@@ -1,0 +1,9 @@
+{
+  "parentName": "stakedFiro",
+  "parentSymbol": "stFIRO",
+  "parentContract": "0x160b1e5aabfd70b2fc40af815014925d71ceed7e",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

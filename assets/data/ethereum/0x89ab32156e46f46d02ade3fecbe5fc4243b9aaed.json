@@ -1,0 +1,9 @@
+{
+  "parentName": "pNetwork",
+  "parentSymbol": "PNT",
+  "parentContract": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

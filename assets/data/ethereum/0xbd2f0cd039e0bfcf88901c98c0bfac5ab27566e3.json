@@ -1,0 +1,9 @@
+{
+  "parentName": "Dynamic Set Dollar",
+  "parentSymbol": "DSD",
+  "parentContract": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

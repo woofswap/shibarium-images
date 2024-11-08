@@ -1,0 +1,9 @@
+{
+  "parentName": "SpacePenguin",
+  "parentSymbol": "PNGN",
+  "parentContract": "0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

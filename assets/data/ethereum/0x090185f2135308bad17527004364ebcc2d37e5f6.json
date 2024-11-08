@@ -1,0 +1,9 @@
+{
+  "parentName": "Spell Token",
+  "parentSymbol": "SPELL",
+  "parentContract": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

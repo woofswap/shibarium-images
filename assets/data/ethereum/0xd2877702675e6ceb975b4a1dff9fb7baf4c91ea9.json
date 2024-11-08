@@ -1,0 +1,9 @@
+{
+  "parentName": "Terra",
+  "parentSymbol": "LUNA",
+  "parentContract": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

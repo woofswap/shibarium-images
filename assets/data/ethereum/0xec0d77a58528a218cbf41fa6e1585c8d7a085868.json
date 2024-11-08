@@ -1,0 +1,9 @@
+{
+  "parentName": "oneETH",
+  "parentSymbol": "oneETH",
+  "parentContract": "0xec0d77a58528a218cbf41fa6e1585c8d7a085868",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

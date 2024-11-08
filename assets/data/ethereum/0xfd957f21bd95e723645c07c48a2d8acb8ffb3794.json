@@ -1,0 +1,9 @@
+{
+  "parentName": "Ethereum Meta",
+  "parentSymbol": "ETHM",
+  "parentContract": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

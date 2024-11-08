@@ -1,0 +1,9 @@
+{
+  "parentName": "CHOPPER INU",
+  "parentSymbol": "CHOPPER",
+  "parentContract": "0x28c5805b64d163588a909012a628b5a03c1041f9",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

@@ -1,0 +1,9 @@
+{
+  "parentName": "OnX.finance",
+  "parentSymbol": "ONX",
+  "parentContract": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

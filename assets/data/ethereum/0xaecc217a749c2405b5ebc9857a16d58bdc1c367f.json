@@ -1,0 +1,9 @@
+{
+  "parentName": "Pawthereum",
+  "parentSymbol": "PAWTH",
+  "parentContract": "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

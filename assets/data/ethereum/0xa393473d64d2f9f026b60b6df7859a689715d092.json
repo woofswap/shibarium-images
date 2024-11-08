@@ -1,0 +1,9 @@
+{
+  "parentName": "Lattice Token",
+  "parentSymbol": "LTX",
+  "parentContract": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

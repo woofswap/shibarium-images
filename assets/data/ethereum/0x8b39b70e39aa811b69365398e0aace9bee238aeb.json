@@ -1,0 +1,9 @@
+{
+  "parentName": "PolkaFoundry",
+  "parentSymbol": "PKF",
+  "parentContract": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

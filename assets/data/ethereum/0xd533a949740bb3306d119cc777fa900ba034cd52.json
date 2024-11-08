@@ -1,0 +1,9 @@
+{
+  "parentName": "Curve DAO Token",
+  "parentSymbol": "CRV",
+  "parentContract": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}

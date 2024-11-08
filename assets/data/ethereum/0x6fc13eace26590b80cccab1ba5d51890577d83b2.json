@@ -1,0 +1,9 @@
+{
+  "parentName": "Umbrella Network",
+  "parentSymbol": "UMB",
+  "parentContract": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+  "childName": "",
+  "childSymbol": "",
+  "childContract": "",
+  "bridgeType": "pos"
+}
