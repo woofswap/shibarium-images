@@ -6,40 +6,42 @@ This repository contains token images and details for the Shibarium bridge, supp
 
 ```
 assets/
-├── ethereum/
-│   └── {tokenSymbol}/
-│       ├── token.json
+├── images/
+│   ├── ethereum/
+│   │   └── {tokenAddress}.png
+│   ├── sepolia/
+│   │   └── {tokenAddress}.png
+│   ├── shibarium/
+│   │   └── {tokenAddress}.png
+│   └── puppynet/
 │       └── {tokenAddress}.png
-├── sepolia/
-│   └── {tokenSymbol}/
-│       ├── token.json
-│       └── {tokenAddress}.png
-├── shibarium/
-│   └── {tokenSymbol}/
-│       ├── token.json
-│       └── {tokenAddress}.png
-├── puppynet/
-│   └── {tokenSymbol}/
-│       ├── token.json
-│       └── {tokenAddress}.png
+├── data/
+│   ├── ethereum/
+│   │   └── {tokenAddress}.json
+│   ├── sepolia/
+│   │   └── {tokenAddress}.json
+│   ├── shibarium/
+│   │   └── {tokenAddress}.json
+│   └── puppynet/
+│       └── {tokenAddress}.json
 ```
 
 ### Network Directories
 
 - **Ethereum Network**
-  - **Path**: `assets/ethereum/`
+  - **Path**: `assets/images/ethereum/`, `assets/data/ethereum/`
   - **Description**: Contains images and details for tokens on the **Ethereum** network.
 
 - **Sepolia Network**
-  - **Path**: `assets/sepolia/`
+  - **Path**: `assets/images/sepolia/`, `assets/data/sepolia/`
   - **Description**: Contains images and details for tokens on the **Sepolia** test network.
 
 - **Shibarium Network**
-  - **Path**: `assets/shibarium/`
+  - **Path**: `assets/images/shibarium/`, `assets/data/shibarium/`
   - **Description**: Contains images and details for tokens on the **Shibarium** test network.
 
 - **Puppynet Network**
-  - **Path**: `assets/puppynet/`
+  - **Path**: `assets/images/puppynet/`, `assets/data/puppynet/`
   - **Description**: Contains images and details for tokens on the **Puppynet** test network.
 
 ---
@@ -50,19 +52,14 @@ assets/
 
 - Decide whether the token belongs to the **Ethereum**, **Sepolia**, **Shibarium**, or **Puppynet** network.
 
-### 2. Create a Token Folder
+### 2. Add Token Image and JSON File
 
-- Under the appropriate network folder (`ethereum`, `sepolia`, `shibarium`, or `puppynet`), create a new folder named using the token's **symbol** in **capital letters** (e.g., `BONE`).
-
-### 3. Add Token Image
-
-- Place the token image inside the newly created folder.
-- **File Naming**: Name the image file using the **token's address**, followed by `.png` (e.g., `0x1234567890abcdef.png`).
-- **File Size**: Ensure the image size does not exceed **200 KB**.
-
-### 4. Add `token.json` File
-
-- In the same folder as the image, create a `token.json` file with the following structure:
+- For each token, create two files:
+  1. **Token Image**: Place the token image inside the appropriate `images/{network}/` folder.
+     - **File Naming**: Name the image file using the **token's address**, in lower case followed by `.png` (e.g., `0x1234567890abcdef.png`).
+     - **File Size**: Ensure the image size does not exceed **200 KB**.
+  2. **Token Details**: Add the token details in a JSON file inside the corresponding `data/{network}/` folder.
+     - **File Naming**: Name the JSON file using the **token's address**, in lower case followed by `.json` (e.g., `0x1234567890abcdef.json`).
 
 ```json
 {
@@ -76,11 +73,11 @@ assets/
 }
 ```
 
-### 5. Create a Pull Request (PR)
+### 3. Create a Pull Request (PR)
 
-- Once the image and `token.json` file are added, **create a pull request (PR)** to the main branch with your changes.
+- Once you have added the image `${tokenAddress}.json` file, **create a pull request (PR)** to the main branch with your changes.
 
-### 6. PR Review and Approval
+### 4. PR Review and Approval
 
 - Wait for the PR to be reviewed and approved by the maintainers.
 
@@ -91,30 +88,24 @@ assets/
 Once your PR is merged, the image for the token can be accessed via the following URL format:
 
 ```
-https://cdn.shib.io/shibarium-tokens/${chain}/${symbol.toUpperCase()}/${contractAddress.toLowerCase()}.png
+https://cdn.shib.io/shibarium-tokens/images/${chain}/${contractAddress.toLowerCase()}.png
 ```
 
 - `${chain}`: Replace with the network (either `ethereum`, `sepolia`, `shibarium`, or `puppynet`).
-
-### For `${symbol}`:
-- If **`parentSymbol`** is provided, use that as the symbol in the URL.
-- If **`childSymbol`** is provided, use that as the symbol in the URL.
-
-### For `${contractAddress}`:
-- If **`parentContract`** is provided, use that as the contract address in the URL.
-- If **`childContract`** is provided, use that as the contract address in the URL.
+- `${contractAddress}`: Use the **token's contract address** (in lowercase).
 
 ### Example URL:
-If you added the `BONE` token for the **Ethereum** network, with the **parent contract address** of `0x9813037ee2218799597d83D4a5B6F3b6778218d9`, the image URL would be:
+
+If you added the `BONE` token for the **Ethereum** network, with the contract address `0x9813037ee2218799597d83D4a5B6F3b6778218d9`, the image URL would be:
 
 ```
-https://cdn.shib.io/shibarium-bridge/ethereum/BONE/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
+https://cdn.shib.io/shibarium-tokens/ethereum/0x9813037ee2218799597d83d4a5b6f3b6778218d9.png
 ```
 
-If you added the same token but provided the **child contract address** as `0x0000000000000000000000000000000000001010`, the image URL would be:
+If you added the same token but with the **child contract address** `0x0000000000000000000000000000000000001010`, the image URL would be:
 
 ```
-https://cdn.shib.io/shibarium-bridge/ethereum/BONE/0x0000000000000000000000000000000000001010.png
+https://cdn.shib.io/shibarium-tokens/ethereum/0x0000000000000000000000000000000000001010.png
 ```
 
 ---
@@ -123,14 +114,10 @@ https://cdn.shib.io/shibarium-bridge/ethereum/BONE/0x000000000000000000000000000
 
 We welcome contributions! To ensure consistency and proper management of token images, please adhere to the following guidelines:
 
-1. **Folder Naming**: Ensure the folder name is the token symbol in **capital letters** (e.g., `BONE`).
-2. **Image Naming**: Name the image file using the **token address** followed by `.png` (e.g., `0x1234567890abcdef.png`).
+1. **Folder Naming**: Ensure the folder name is the **network** (e.g., `ethereum`, `sepolia`, `shibarium`, `puppynet`).
+2. **Image Naming**: Name the image file using the **token address** in lower case followed by `.png` (e.g., `0x1234567890abcdef.png`).
 3. **Image Size**: Ensure the token image does not exceed **200 KB** in size.
-4. **File Format**: Use the specified structure for the `token.json` file.
+4. **File Format**: Use the specified structure for the `${tokenAddress}.json` in lower case.
 5. **Contract Addresses**: Ensure that the contract addresses are accurate and in the correct format (all lowercase).
 
 By following these instructions and ensuring the correctness of the files, your token addition will be quickly reviewed and integrated.
-
----
-
-Let me know if you need any further updates or clarifications!
