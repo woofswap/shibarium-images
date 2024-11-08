@@ -91,7 +91,7 @@ Once your PR is merged, the image for the token can be accessed via the followin
 https://cdn.shib.io/shibarium-tokens/images/${chain}/${contractAddress.toLowerCase()}.png
 ```
 ```
-https://cdn.shib.io/shibarium-tokens/images/${chain}/${contractAddress.toLowerCase()}.json
+https://cdn.shib.io/shibarium-tokens/data/${chain}/${contractAddress.toLowerCase()}.json
 ```
 
 - `${chain}`: Replace with the network (either `ethereum`, `sepolia`, `shibarium`, or `puppynet`).
